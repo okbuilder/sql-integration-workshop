@@ -1,9 +1,4 @@
 .DS_Store
 .idea/
-README.md
-backend/
-database/
-docker-compose.yml
-frontend/
-mysql_data/
+/mysql_data
 
